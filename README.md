@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SKKD1207
+- 👀 I’m interested in learning new skills no matter how much time it takes.
+- 🌱 I’m currently learning pyhton.
+- 💞️ I’m looking to collaborate on back end based projects.
+- 📫 u can reach me through my mail id.(nsksooriya1207)
